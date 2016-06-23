@@ -150,7 +150,7 @@ We see, then, that two reflections can be equivalent to a single translation. Th
             <theorem xml:id="parallelism">
             <statement> 
             <p>
-            asdfasdfasdf <m>l \parallel m</m> and <m>m \parallel n</m>, then <m>l \parallel n</m>.
+             <m>l \parallel m</m> and <m>m \parallel n</m>, then <m>l \parallel n</m>.
             </p>
             </statement>
             </theorem>

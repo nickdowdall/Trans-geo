@@ -40,7 +40,7 @@ The <term>reflection</term> of a point <m>P</m> through a line <m>m</m> is the p
 <alert>EXAMPLE</alert> In figure 10.1, <m>Q</m> is the reflection of <m>P</m> through line <m>m</m>. This means that <m>m</m> is the perpendicular bisector of <m>\overline{PQ}</m>, and therefore <m>M</m> is the midpoint of <m>\overline{PQ}</m>, and <m>\overline{PQ}</m> is perpendicular to <m>m</m>.
             </p>
             <figure>
-<image source="/Users/Travis/Desktop/rigid_motions/pictures/Figure_10.1.png" width="120%"/>
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/pictures/Figure_10.1.png" width="120%"/>
 <caption>Reflections through a line</caption>
             </figure>
             <p>
@@ -62,7 +62,7 @@ A translation is determined by a vector. The translation of a point by a vector 
 <alert>EXAMPLE</alert> To translate a polygon, translate the vertices of the polygon by the required distance in the required direction, then draw the segments determined by the translated points. Figure 10.2 shows  <m>\triangle ABC</m> and it’s translation by vector PQ,  <m>\triangle DEF</m>. Each point of <m>\triangle ABC</m> has been translated by a vector PQ. thus, each of the dotted segments is parallel to <m>\overline{PQ}</m> and has a length equal to PQ.
             </p>
             <figure>
-<image source="/Users/Travis/Desktop/rigid_motions/pictures/Figure_10.2.png" width="90%"/>
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/pictures/Figure_10.2.png" width="90%"/>
 <caption>A triangle and its reflection</caption>
             </figure>
             <p>
@@ -78,7 +78,7 @@ Let <m>P</m> and <m>O</m> be points in the plane, and let c be the circle center
 EXAMPLE Figure 10.3 shows  <m>\triangle ABC</m> and it’s rotation about point <m>O</m> in the clockwise direction by 60°, <m>\triangle DEF</m>. Each point of <m>\triangle ABC</m> has been rotated by 60° in the clockwise direction. Thus, <m>\angle AOD</m>, <m>\angle BOE</m>, and <m>\angle COF</m> all measure in 60°, by definition of the degree measure of a minor arc.
            </p>
            <figure>
-<image source="/Users/Travis/Desktop/rigid_motions/pictures/Figure_10.3.png" width="80%"/>
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/pictures/Figure_10.3.png" width="80%"/>
 <caption>A triangle and it's rotation</caption>
            </figure>
            <p>
@@ -94,7 +94,7 @@ The only point fixed by a rotation is the center of rotation. The proof of this 
 <alert>EXAMPLE</alert> In Figure <xref ref="footprint"/>, footprint 2 is obtained by reflecting footprint 1 through <m>\overleftrightarrow{AB}</m>, then translating the reflection by vector AB. Thus footprint 2 is a glide reflection of footprint 1.
            </p>
            <figure xml:id="footprint">
-<image source="/Users/Travis/Desktop/rigid_motions/pictures/Figure_10.4.png" width="80%"/>
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/pictures/Figure_10.4.png" width="80%"/>
 <caption>Footprints can be glide reflections</caption>
            </figure>
            <p>
@@ -112,7 +112,7 @@ What happens if we reflect an object twice through two different lines? We see i
                 <p> In Figure 3.2, the point <m>Q</m> is the reflection through <m>\overleftrightarrow{AB}</m> of point <m>P</m>, point <m>R</m> is the reflection through <m>\overleftrightarrow{CD}</m> of point <m>Q</m> and <m>\overleftrightarrow{AB}</m>||<m>\overleftrightarrow{CD}</m>. Let <m>m</m> be the line through <m>Q</m> that is parallel to <m>\overleftrightarrow{CD}</m>, and let <m>E</m> be a point on <m>m</m> different from <m>Q</m>. By the transitivity of parallelism (<xref ref="parallelism"/>), we know <m>m</m>||<m>\overleftrightarrow{AB}</m>.
                 </p>
            <figure>
-<image source="/Users/Travis/Desktop/rigid_motions/pictures/Figure_10.5.png" width="80%"/>
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/pictures/Figure_10.5.png" width="80%"/>
 <caption>A point reflected twice through parallel lines</caption>
            </figure>
            <p>
@@ -150,12 +150,15 @@ We see, then, that two reflections can be equivalent to a single translation. Th
             <theorem xml:id="parallelism">
             <statement> 
             <p>
-             <m>l \parallel m</m> and <m>m \parallel n</m>, then <m>l \parallel n</m>.
+            If <m>l \parallel m</m> and <m>m \parallel n</m>, then <m>l \parallel n</m>.
             </p>
             </statement>
             </theorem>
             <p>
             <xref ref="theorem-reflection-parallel-lines"/>
+            </p>
+            <p>
+            hello world
             </p>
             </subsection>
         </section>

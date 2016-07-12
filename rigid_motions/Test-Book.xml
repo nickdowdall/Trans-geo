@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<mathbook xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US">
+<book xml:id="Transformational_Geometry">
+<title>Transformational Geometry</title>
+        <subtitle>Subtitle Text</subtitle>
+        
+
+       
+<xi:include href="./new-stuff.xml" />
+
+<xi:include href="./old-stuff.xml" />      
+
+<xi:include href="./playground.xml" />  
+
+</book>
+</mathbook>

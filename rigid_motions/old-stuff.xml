@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chapter xml:id="old-stuff">
+    <title>Old Stuff</title>
+    <introduction>
+        <p>testing 1 2 3</p>
+    </introduction>
+    <section xml:id="Preamble">
+        <title>Preamble</title>
+            <p>
+            It is often useful to rearrange the points in a plane. We do this when we slide, turn, flip, enlarge, or reduce geometric objects. These arrangements are examples of what are called <term>transformations</term> of the plane.
+            </p>
+            <p>
+A transformation of the plane is a function that sends each point <m>P</m> in the plane to a point <m>Q</m> in the plane (called the <term>image</term> of <m>P</m> under the transformation), with the following properties: No two points are sent to the same point, and for every <m>P</m> in the plane there is a point <m>Q</m> that gets sent to <m>P</m> (note that <m>Q</m> and <m>P</m> can be the same point). A function with the first property is said to be <term>one-to-one</term>, and a function with the second property is called onto. A function with both properties is said to be a bijection, and therefore every transformation is a bijection.
+            </p>
+            <p>
+<alert>EXAMPLE 1</alert> The transformation of the plane that sends each point in the plane to itself is called the <term>identity</term> transformation.
+            </p>
+            <p>
+<alert>EXAMPLE 2</alert> The transformation of the plane that moves each point in the plane two units to the right is an example of a <term>translation</term>.
+            </p>
+            <p>
+A transformation of the plane may send some points to themselves, while moving other points. We say that the points that are sent to themselves are <term>fixed</term> by the transformation, or are <term>fixed points</term> of the transformation. In the case of the identity transformation, every point in the plane is a fixed point of the transformation. The translation in Example 2 has no fixed points.
+            </p>
+            <p>
+Of particular interest to us are those transformations that preserve the size and shape of geometric objects. Such transformations are called <term>rigid</term> motions.
+            </p>
+        </section>
+        <section xml:id="Section_10.1_Rigid_Motions">
+            <title>10.1: Rigid Motions</title>
+            <p>
+            A <term>rigid motion</term> is a transformation of the plane in which the distance between any two points after undergoing the transformation is the same as the distance between those points before undergoing the transformation.
+            </p>
+            <p>
+There are three main types of rigid motions: reflections, translations, and rotations. We will first discuss reflections, otherwise known as “flips.” In what follows, all points and lines lie in a single plane.
+            </p>
+            <p>
+The <term>reflection</term> of a point <m>P</m> through a line <m>m</m> is the point <m>Q</m> such that <m>m</m> is the perpendicular bisector of <m>\overline{PQ}</m>. If <m>P</m> is on <m>m</m>, then it is it’s own reflection.
+            </p>
+            <p>
+<alert>EXAMPLE</alert> In figure 10.1, <m>Q</m> is the reflection of <m>P</m> through line <m>m</m>. This means that <m>m</m> is the perpendicular bisector of <m>\overline{PQ}</m>, and therefore <m>M</m> is the midpoint of <m>\overline{PQ}</m>, and <m>\overline{PQ}</m> is perpendicular to <m>m</m>.
+            </p>
+            <figure>
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/pictures/Figure_10.1.png" width="120%"/>
+<caption>Reflections through a line</caption>
+            </figure>
+            <p>
+To reflect a polygon through a line, reflect the vertices of the polygon through the line and then join the reflected points with segments. In Figure 2.1, polygon 2 is the reflection through line <m>n</m> of polygon 1. The dotted segments in Figure 2.1 are not part of the reflection, but are shown to emphasize the fact that each vertex has been reflected through <m>m</m>. Thus, the perpendicular bisector of each of the dotted segments is m. We say that polygon 2 is the reflection through <m>m</m> of polygon 1, and conversely.
+            </p>
+            <p>
+The fixed points of a reflection are the points on the line of reflection. The proof of this statement is left as an advanced exercise.
+            </p>
+            <p>
+            We turn our attention now to translations, also known as “slides.” To translate (or slide) an object, we have to know in what direction and how far. This leads us to the concept of a vector.
+            </p>
+            <p>
+A vector is a segment with a specified direction. the <term>vector</term> PQ is <m>\overline{PQ}</m> with a direction going from <m>P</m> to <m>Q</m>.
+            </p>
+            <p>
+A translation is determined by a vector. The translation of a point by a vector is obtained by moving that point in the direction of the vector by a distance equal to the length of the vector.
+            </p>
+            <p>
+<alert>EXAMPLE</alert> To translate a polygon, translate the vertices of the polygon by the required distance in the required direction, then draw the segments determined by the translated points. Figure 10.2 shows  <m>\triangle ABC</m> and it’s translation by vector PQ,  <m>\triangle DEF</m>. Each point of <m>\triangle ABC</m> has been translated by a vector PQ. thus, each of the dotted segments is parallel to <m>\overline{PQ}</m> and has a length equal to PQ.
+            </p>
+            <figure>
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/pictures/Figure_10.2.png" width="90%"/>
+<caption>A triangle and its reflection</caption>
+            </figure>
+            <p>
+No points are fixed by a translation. The proof of this statement is left as an advanced exercise. 
+           </p>
+           <p>
+           The last of the three main types of rigid motions are rotations, or “turns.” A rotation always has a center, an angle and a direction (clockwise or counterclockwise), and is defined as follows:
+           </p>
+           <p>
+Let <m>P</m> and <m>O</m> be points in the plane, and let c be the circle centered at <m>O</m> with radius OP. A rotation of <m>P</m> about center <m>O</m> by x degrees is a point <m>Q</m> lying on c with the property that m(minor PQ) = x°. There are two such rotation images, one in the clockwise direction and one in the counterclockwise direction. Although we have adopted the convention that a degree measure of any angle is less than 180°, we allow rotations by <m>180°</m>.
+           </p>
+           <p>
+EXAMPLE Figure 10.3 shows  <m>\triangle ABC</m> and it’s rotation about point <m>O</m> in the clockwise direction by 60°, <m>\triangle DEF</m>. Each point of <m>\triangle ABC</m> has been rotated by 60° in the clockwise direction. Thus, <m>\angle AOD</m>, <m>\angle BOE</m>, and <m>\angle COF</m> all measure in 60°, by definition of the degree measure of a minor arc.
+           </p>
+           <figure>
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/pictures/Figure_10.3.png" width="80%"/>
+<caption>A triangle and it's rotation</caption>
+           </figure>
+           <p>
+The only point fixed by a rotation is the center of rotation. The proof of this statement is left as an advanced exercise. 
+           </p>
+            </section>
+            <section xml:id="Combinations_of_Rigid_Motions">
+        <title>Combination of Rigid Motions</title>
+        <p>
+        A glide reflection is a reflection followed by a translation in a direction parallel to the line of reflection.
+           </p>
+           <p>
+<alert>EXAMPLE</alert> In Figure <xref ref="footprint"/>, footprint 2 is obtained by reflecting footprint 1 through <m>\overleftrightarrow{AB}</m>, then translating the reflection by vector AB. Thus footprint 2 is a glide reflection of footprint 1.
+           </p>
+           <figure xml:id="footprint">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/pictures/Figure_10.4.png" width="80%"/>
+<caption>Footprints can be glide reflections</caption>
+           </figure>
+           <p>
+Similarly, footprint 3 is a glide reflection of footprint 2 and footprint 4 is a glide reflection of footprint 3.
+           </p>
+           <p>
+What happens if we reflect an object twice through two different lines? We see in the next two theorems that the result is either a translation or a rotation, depending on whether or not the lines intersect. Note that the distance between two lines is defined to be the length of a segment that has an endpoint on each line and is perpendicular to both lines.
+        </p>
+        <theorem xml:id="theorem-reflection-parallel-lines">
+            <statement>
+                <p>Two reflections through parallel lines is equivalent to a single translation, in a direction perpendicular to the lines and by twice the distance between the lines.
+                </p>
+            </statement>
+            <hint>
+                <p> In Figure 3.2, the point <m>Q</m> is the reflection through <m>\overleftrightarrow{AB}</m> of point <m>P</m>, point <m>R</m> is the reflection through <m>\overleftrightarrow{CD}</m> of point <m>Q</m> and <m>\overleftrightarrow{AB}</m>||<m>\overleftrightarrow{CD}</m>. Let <m>m</m> be the line through <m>Q</m> that is parallel to <m>\overleftrightarrow{CD}</m>, and let <m>E</m> be a point on <m>m</m> different from <m>Q</m>. By the transitivity of parallelism (<xref ref="parallelism"/>), we know <m>m</m>||<m>\overleftrightarrow{AB}</m>.
+                </p>
+           <figure>
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/pictures/Figure_10.5.png" width="80%"/>
+<caption>A point reflected twice through parallel lines</caption>
+           </figure>
+           <p>
+           By the definition of a reflection <m>m\angle AMP = 90° = m\angle CNR</m>, and therefore <m>m\angle EQP = m\angle EQR = 90°</m> by the Corresponding Angle Theorem. Thus <m>m\angle PQR = m\angle EQP + m\angle EQR = 90° + 90° = 180°</m>, and so <m>P-Q-R</m>. It follows that <m>\overline{PR} \bot \overleftrightarrow{CD}</m>.
+           </p>
+           <p>
+           The definition of a reflection also gives us <m>PM = MQ</m> and <m>QN = NR</m>, so <m>PQ = PM + MQ = 2(MQ)</m> and <m>QR = QN + NR = 2(QN)</m>. Thus <m>PR = PQ + QR = 2(MQ) + 2(QN) = 2(MQ + QN) = 2(MN)</m>, which is twice the distance betweem <m>\overleftrightarrow{AB}</m> and <m>\overleftrightarrow{CD}</m>.
+           </p>
+           </hint>
+        </theorem>
+        <p>
+        EXAMPLE In Figure 10.6, polygon 2 is the reflection through AB of polygon 1, polygon 3 is the reflection through CD of polygon 2. AB || CD and AB and CD are 4 centimeters apart.
+           </p>
+        FIGURE 10.6: A polygon reflected twice through parallel lines
+           <p>
+Thus by Theorem 10.1.1, polygon 3 is the translation of polygon 1 by vector PR, PR is perpendicular to both lines, and the distance from P to R is twice the distance between the lines, or 8 centimeters.
+           </p>
+           <p>
+We see, then, that two reflections can be equivalent to a single translation. The next theorem states the conditions under which two reflections can be equivalent to a single rotation. “The angle between the two lines” in the following theorem is understood to be the angle for which the first reflection is an interior point. 
+          </p>
+           <theorem xml:id="theorem-reflection-rotation-parallel-lines">
+            <statement> 
+            <p>
+            Two reflections through intersecting lines is equivalent to a single rotation, centered at the point of intersection of the two lines. The rotation is twice the angle between the lines.
+            </p>
+            </statement>
+            <proof>
+            </proof>
+            </theorem>
+        </section>
+        <section xml:id="old-content">
+       <title>Old Content</title>
+            <subsection xml:id="parallelism-subsection">
+            <title>Transitivity of Parallelism</title>
+            <theorem xml:id="parallelism">
+            <statement> 
+            <p>
+            If <m>l \parallel m</m> and <m>m \parallel n</m>, then <m>l \parallel n</m>.
+            </p>
+            </statement>
+            </theorem>
+            <p>
+            <xref ref="theorem-reflection-parallel-lines"/>
+            </p>
+            <p>
+            hello world
+            </p>
+            </subsection>
+        </section>
+</chapter>

@@ -5,6 +5,8 @@
         <p>testing 1 2 3</p>
     </introduction>
     
+<xi:include href="./Geogebra-guides/geogebra-tutorial.xml" />    
+    
 <xi:include href="./Geogebra-guides/rotations.xml" />
 
 <xi:include href="./Geogebra-guides/reflections.xml" />

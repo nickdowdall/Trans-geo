@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<exercises xml:id="rotations">
+<title>Rotations in Geogebra</title>
+<subtitle>Do we need a subtitle?</subtitle>
+<exercise number="1">
+        <statement>
+            <p>Using the <term>Point Tool</term>, create three points <m>A</m>, <m>B</m>, and <m>C</m>. Then connect them with the <term>Line Tool</term> to create <m>\triangle ABC</m>.</p>
+            <hint>
+            <figure xml:id="rotation_1">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/rotations_1.png" width="90%"/>
+<caption><m>\triangle ABC</m></caption>
+           </figure>
+           </hint>
+        </statement>
+    </exercise>
+    
+    <exercise number="2">
+        <statement>
+            <p>Make a fourth point using the <term>Point Tool</term>, call it <m>O</m>.</p>
+            <hint>
+            <figure xml:id="rotation_2">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/rotations_2.png" width="90%"/>
+<caption><m>\triangle ABC</m> with point <m>O</m></caption>
+           </figure>
+           </hint>
+        </statement>
+    </exercise>
+    
+    <exercise number="3">
+        <statement>
+            <p>With the <term>Rotate around Point Tool</term>, selected, by click and drag a box around <m>\triangle ABC</m>. Once that is selected, click on point <m>O</m>. A pop-up box should appear.</p> 
+            <hint>
+            <figure xml:id="rotation_3">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/rotations_3.png" width="110%"/>
+<caption><m>\triangle ABC</m> rotated clockwise around point <m>O</m></caption>
+           </figure>
+           </hint>
+        </statement>
+    </exercise>
+</exercises>

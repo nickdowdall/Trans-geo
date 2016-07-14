@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chapter xml:id="playground">
+    <title>playground</title>
+    <introduction>
+        <p>testing 1 2 3</p>
+        <example>
+        <figure>
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/pictures/Figure_10.5.png" width="80%"/>
+<caption>A point reflected twice through parallel lines</caption>
+           </figure>
+           </example>
+           
+           <hint>
+        <figure>
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/pictures/Figure_10.5.png" width="80%"/>
+<caption>A point reflected twice through parallel lines</caption>
+           </figure>
+           </hint>
+           
+           <example>
+        <figure>
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/pictures/Figure_10.5.png" width="80%"/>
+<caption>A point reflected twice through parallel lines</caption>
+           </figure>
+           </example>
+    </introduction>
+    <p>hello</p>
+    <hint><p>hi</p></hint>
+    
+</chapter>

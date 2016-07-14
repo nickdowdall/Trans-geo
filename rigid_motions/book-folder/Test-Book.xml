@@ -8,11 +8,15 @@
         
 
        
-<xi:include href="./new-stuff.xml" />
+<xi:include href="./chapters/Geogebra-Tutorial.xml" />
 
-<xi:include href="./old-stuff.xml" />      
+<xi:include href="./chapters/Early-Transformations.xml" />
 
-<xi:include href="./playground.xml" />  
+<xi:include href="./chapters/Combinations-Of-Rigid-Motions.xml" />
+
+<xi:include href="./chapters/old-stuff.xml" />      
+
+<xi:include href="./chapters/playground.xml" />  
 
 </book>
 </mathbook>

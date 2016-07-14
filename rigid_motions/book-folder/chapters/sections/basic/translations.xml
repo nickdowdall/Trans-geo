@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<section xml:id="translations">
+    <title>Translations in Geogebra</title>
+    <introduction>
+    </introduction>
+    
+<ol>
+
+<li>step 1
+<hint>
+            <figure xml:id="translations_1">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/translation_1.png" width="90%"/>
+<caption><m>\triangle ABC</m></caption>
+           </figure>
+           </hint>
+</li>
+
+<li>step 2
+<hint>
+            <figure xml:id="translations_2">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/translation_2.png" width="90%"/>
+<caption><m>\triangle ABC</m></caption>
+           </figure>
+           </hint>
+</li>
+
+<li>step 3
+<hint>
+            <figure xml:id="translations_3">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/translation_3.png" width="90%"/>
+<caption><m>\triangle ABC</m></caption>
+           </figure>
+           </hint>
+</li>
+
+</ol>
+</section>

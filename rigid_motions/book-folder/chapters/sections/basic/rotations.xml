@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<section xml:id="rotations">
+    <title>Rotations in Geogebra</title>
+    <introduction>
+    </introduction>
+    
+<ol>
+
+<li>step 1
+<hint>
+            <figure xml:id="rotations_1">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/rotations_1.png" width="90%"/>
+<caption><m>\triangle ABC</m></caption>
+           </figure>
+           </hint>
+</li>
+
+<li>step 2
+<hint>
+            <figure xml:id="rotations_2">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/rotations_2.png" width="90%"/>
+<caption><m>\triangle ABC</m></caption>
+           </figure>
+           </hint>
+</li>
+
+<li>step 3
+<hint>
+            <figure xml:id="rotations_3">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/rotations_3.png" width="90%"/>
+<caption><m>\triangle ABC</m></caption>
+           </figure>
+           </hint>
+</li>
+
+</ol>
+</section>

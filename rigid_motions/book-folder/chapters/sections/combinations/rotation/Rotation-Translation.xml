@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<section xml:id="Rotation-Translation">
+    <title>Rotation and Translation</title>
+    
+<ol>
+
+<li><p>In this figure below, <m>\triangle ABC</m> has been rotated once around point <m>D</m>, and translated by vector <m>\overrightarrow{u}</m>. Do you think we can get from the left triangle to the right triangle in a single rigid motion?</p>
+            <example>
+            <figure xml:id="rotation_translation-1">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/rotation_translation-1.png" width="90%"/>
+<caption><m>\triangle PQR</m> and it's rotation and translation</caption>
+           </figure>
+           </example>
+</li>
+
+<li><p>Perhaps you have come to the conclusion that it is a single rotation. How would one go about finding the rotation's center?</p>
+			<example>
+            <figure xml:id="rotation_translation-2">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/rotation_translation-2.png" width="90%"/>
+<caption><m>\triangle PQR</m> and it's rotation and translation</caption>
+           </figure>
+           <hint><p>If <m>A</m> and <m>A''</m> is a single rotation, that would mean that they lie on the same circle. What would that mean about the distance from the center of the circle to <m>A</m> and <m>A''</m>?</p></hint>
+           </example>
+</li>
+
+<li><p>Because points on a circle are all the same distance from the center of the circle (definition of radius), then if point <m>O</m> is the center of the circle, then <m>\overline{OA''} = \overline{OA''}</m>.</p>
+<example>
+            <figure xml:id="rotation_translation-3">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/rotation_translation-3.png" width="90%"/>
+<caption><m>\triangle PQR</m> and it's rotation and translation</caption>
+           </figure>
+           <hint><p>If <m>\overline{OA} = \overline{OA''}</m>, then <m>O</m> lies on the perpendicular bisector of <m>AA''</m>.</p></hint>
+           </example>
+</li>
+
+<li>
+<example>
+            <figure xml:id="rotation_translation-4">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/rotation_translation-4.png"/>
+<caption><m>\triangle PQR</m> and it's rotation and translation</caption>
+           </figure>
+           </example>
+</li>
+
+</ol>
+</section>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<section xml:id="rotation-glide">
+    <title>Rotation and Glide</title>
+    
+<ol>
+
+<li><p>In this figure below, <m>\triangle ABC</m> has been rotated once around point D, translated by <m>\overrightarrow{u}</m>, and reflected over line <m>\overleftrightarrow{m}</m>. Do you think we can get from the far left triangle to the far right triangle in a single rigid motion?</p>
+            <example>
+            <figure xml:id="rotation_glide-1">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/rotation_glide-11.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's rotation, translation and reflection</caption>
+           </figure>
+           </example>
+</li>
+
+<li><p>Upon your own investigations, you may have found that it is a glide, which by definition is a translation and reflection. What is the translation's distance and direction, and where is the mirror?</p>
+			<example>
+            <figure xml:id="rotation_glide-2">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/rotation_glide-2.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's related image</caption>
+           </figure>
+           <hint>
+           <p>
+		   The most direct way to find the translation vector would be to translate a single point from it's starting location to it's ending location.</p>
+
+           <figure xml:id="rotation_glide-3">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/rotation_glide-3.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's rotation, translation and reflection</caption>
+           </figure>
+           </hint>
+           </example>
+</li>
+
+<li><p>Now that we have found the translation vector, how can we find the mirror?</p>
+<example>
+            <figure xml:id="rotation_glide-33">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/rotation_glide-3.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's translation vector</caption>
+           </figure>
+           
+           <hint>
+           <p>
+		   The most direct way to find the translation vector would be to translate a single point from it's starting location to it's ending location.</p>
+
+           <figure xml:id="rotation_glide-4">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/rotation_glide-4.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's rotation, translation and reflection</caption>
+           </figure>
+           </hint>
+           </example>
+</li>
+
+<li><p>testing 1 2 3</p>
+<example>
+            <figure xml:id="rotation_glide-5">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/rotation_glide-5.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's translation and reflection</caption>
+           </figure>
+           </example>
+</li>
+
+</ol>
+</section>

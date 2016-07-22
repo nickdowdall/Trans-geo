@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<section xml:id="Double-Rotation">
+    <title>Rotation Rotation</title>
+    
+<ol>
+
+<li><p>In this figure below, <m>\triangle PQR</m> has been rotated once around point A, and again around point B. Do you think we can get from the left triangle to the right triangle in a single rigid motion?</p>
+            <example>
+            <figure xml:id="double_rotation-1">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/double_rotation-1.png" width="90%"/>
+<caption><m>\triangle PQR</m> and it's double rotation</caption>
+           </figure>
+           </example>
+</li>
+
+<li><p>Perhaps you have come to the conclusion that it is a single rotation. How would one go about finding the rotation's center?</p>
+			<example>
+            <figure xml:id="double_rotation-2">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/double_rotation-2.png" width="90%"/>
+<caption><m>\triangle PQR</m> and it's double rotation</caption>
+           </figure>
+           <hint><p>If <m>Q</m> and <m>Q''</m> is a single rotation, that would mean that they lie on the same circle. What would that mean about the distance from the center of the circle to <m>Q</m> and <m>Q''</m>?</p></hint>
+           </example>
+</li>
+
+<li><p>Because points on a circle are all the same distance from the center of the circle (definition of radius), then if point <m>O</m> is the center of the circle, then <m>\overline{OQ} = \overline{OQ''}</m>.</p>
+<example>
+            <figure xml:id="double_rotation-3">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/double_rotation-3.png" width="90%"/>
+<caption><m>\triangle PQR</m> and it's double rotation</caption>
+           </figure>
+           <hint><p>If <m>\overline{OQ} = \overline{OQ''}</m>, then O lies on the perpendicular bisector of <m>QQ''</m>.</p></hint>
+           </example>
+</li>
+
+<li>
+<example>
+            <figure xml:id="double_rotation-4">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/double_rotation-4.png" width="90%"/>
+<caption><m>\triangle PQR</m> and it's double rotation</caption>
+           </figure>
+           </example>
+</li>
+
+</ol>
+</section>

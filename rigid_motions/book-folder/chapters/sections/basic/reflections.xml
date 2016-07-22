@@ -6,13 +6,14 @@
     
 <ol>
 
-<li>step 1
-<hint>
+<li> <p>Using the polygon tool, from the drop-down menue select Polygon and create a arbitrary triangle (make sure to label the vertices).(REF.) Next, create an arbitrary line in the sketch. Using the transformation tool, select the "Reflect About Line" option and reflect the triangle through the line.  </p>
+<example>
             <figure xml:id="reflections_1">
 <image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/reflections_1.png" width="90%"/>
 <caption><m>\triangle ABC</m></caption>
            </figure>
-           </hint>
+      
+           </example>
 </li>
 
 <li>step 2

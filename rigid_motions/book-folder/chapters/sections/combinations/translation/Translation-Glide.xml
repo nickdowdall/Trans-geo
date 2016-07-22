@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<section xml:id="translation-glide">
+    <title>Translation and Glide</title>
+    
+<ol>
+
+<li><p>In this figure below, <m>\triangle ABC</m> has been translated once by <m>\overrightarrow{u}</m>, translated once by <m>\overrightarrow{v}</m> and reflected over <m>\overleftrightarrow{m}</m>. Do you think we can get from the left triangle to the right triangle in a single rigid motion?</p>
+            <example>
+            <figure xml:id="translation_glide-1">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/translation_glide-1.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's double translation, and reflection</caption>
+           </figure>
+           </example>
+</li>
+
+<li><p>Perhaps you have come to the conclusion that it is a translation and reflection. How would one go about finding the translation and mirror?
+</p>
+			<example>
+            <figure xml:id="translation_glide-2">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/translation_glide-2.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's double translation, and whatever</caption>
+           </figure>
+           </example>
+</li>
+
+<li><p>The most direct way to find the translation is to find the vector between the starting and ending locations of the same point.</p>
+<example>
+            <figure xml:id="translation_glide-3">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/translation_glide-3.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's single translation</caption>
+           </figure>
+           </example>
+</li>
+
+<li><p>testing 1 2 3 4 5 6 7</p>
+<example>
+            <figure xml:id="translation_glide-4">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/translation_glide-4.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's reflection construction</caption>
+           </figure>
+           </example>
+</li>
+
+<li><p>testing 2 4 6 8 10</p>
+<example>
+            <figure xml:id="translation_glide-5">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/translation_glide-5.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's single translation and reflection</caption>
+           </figure>
+           </example>
+</li>
+
+</ol>
+</section>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<section xml:id="Glide-Glide">
+    <title>Glide Glide</title>
+    
+<ol>
+
+<li><p>In this figure below, <m>\triangle ABC</m> has been rotated once around point A, and again around point B. Do you think we can get from the left triangle to the right triangle in a single rigid motion?</p>
+            <example>
+            <figure xml:id="glide_glide-1">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/glide_glide-1.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's double rotation</caption>
+           </figure>
+           </example>
+</li>
+
+<li><p>Perhaps you have come to the conclusion that it is a single rotation. How would one go about finding the rotation's center?</p>
+			<example>
+            <figure xml:id="glide_glide-2">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/glide_glide-2.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's double rotation</caption>
+           </figure>
+           <hint><p>If <m>B</m> and <m>B''''</m> is a single rotation, that would mean that they lie on the same circle. What would that mean about the distance from the center of the circle to <m>B</m> and <m>B''''</m>?</p></hint>
+           </example>
+</li>
+
+<li><p>Because points on a circle are all the same distance from the center of the circle (definition of radius), then if point <m>O</m> is the center of the circle, then <m>\overline{OB} = \overline{OB''''}</m>.</p>
+<example>
+            <figure xml:id="glide_glide-3">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/glide_glide-3.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's rotation</caption>
+           </figure>
+           <hint><p>If <m>\overline{OB} = \overline{OB''''}</m>, then O lies on the perpendicular bisector of <m>QB''''</m>.</p></hint>
+           </example>
+</li>
+
+<li>
+<example>
+            <figure xml:id="glide_glide-4">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/glide_glide-4.png" width="90%"/>
+<caption><m>\overline{BB''''}</m> and it's perpendicular bisector</caption>
+           </figure>
+           </example>
+</li>
+
+<li>
+<example>
+            <figure xml:id="glide_glide-5">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/glide_glide-5.png" width="90%"/>
+<caption><m>\overline{BB''''}</m> and it's perpendicular bisector</caption>
+           </figure>
+           </example>
+</li>
+
+<li>
+<example>
+            <figure xml:id="glide_glide-6">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/glide_glide-6.png" width="90%"/>
+<caption><m>\overline{BB''''}</m> and it's perpendicular bisector</caption>
+           </figure>
+           </example>
+</li>
+
+</ol>
+</section>

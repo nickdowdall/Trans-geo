@@ -5,11 +5,32 @@
         <p>testing 1 2 3</p>
     </introduction>
 
-<xi:include href="./sections/combinations/double-reflection-1.xml" />
+<xi:include href="./sections/combinations/reflection+/double-reflection-1.xml" />
 
-<xi:include href="./sections/combinations/double-reflection-2.xml" />
+<xi:include href="./sections/combinations/reflection+/double-reflection-2.xml" />
 
-<xi:include href="./sections/combinations/glide.xml" />
+<xi:include href="./sections/combinations/reflection+/reflection-rotation.xml" />
+
+<xi:include href="./sections/combinations/reflection+/reflection-glide.xml" />
+
+
+
+<xi:include href="./sections/combinations/rotation+/rotation-rotation.xml" />
+
+<xi:include href="./sections/combinations/rotation+/rotation-translation.xml" />
+
+<xi:include href="./sections/combinations/rotation+/rotation-glide.xml" />
+
+
+
+<xi:include href="./sections/combinations/translation+/translation-translation.xml" />
+
+<xi:include href="./sections/combinations/translation+/translation-glide.xml" />
+
+
+
+<xi:include href="./sections/combinations/glide+/glide-glide.xml" />
+
 
     
 </chapter>

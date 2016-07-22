@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<section xml:id="Reflection-Rotation">
+    <title>Reflection and Rotation</title>
+    
+<ol>
+
+<li><p>In this figure below, <m>\triangle ABC</m> has reflected over <m>\overleftrightarrow{m}</m> and rotated around <m>D</m> . Do you think we can get from the left triangle to the right triangle in a single rigid motion?</p>
+            <example>
+            <figure xml:id="reflection_rotation-1">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/reflection_rotation-1.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's reflection and rotation</caption>
+           </figure>
+           </example>
+</li>
+
+<li><p>Perhaps you have come to the conclusion that it is a translation and reflection. How would one go about finding the translation and mirror?
+</p>
+			<example>
+            <figure xml:id="reflection_rotation-2">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/reflection_rotation-2.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's related image</caption>
+           </figure>
+           <hint>
+           <p>The most direct way to find the translation is to find the vector between the starting and ending locations of the same point.</p>
+           <figure xml:id="reflection_rotation-3">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/reflection_rotation-3.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's single translation</caption>
+           </figure>
+           </hint>
+           </example>
+</li>
+
+<li><p>Now that we have found the translation vector, how can we find the mirror?</p>
+<example>
+            <figure xml:id="reflection_rotation-33">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/reflection_rotation-3.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's translation construction</caption>
+           </figure>
+           
+           <hint>
+           <p>We can find the mirror by constructing the perpendicular bisector of <m>\overline{A_2A''}</m></p>
+           <figure xml:id="reflection_rotation-4">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/reflection_rotation-4.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's reflection construction</caption>
+           </figure>
+           </hint>
+           </example>
+</li>
+
+<li><p>testing 2 4 6 8 10</p>
+<example>
+            <figure xml:id="reflection_rotation-5">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/reflection_rotation-5.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's single translation and reflection</caption>
+           </figure>
+           </example>
+</li>
+
+</ol>
+</section>

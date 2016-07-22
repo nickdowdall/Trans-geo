@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<section xml:id="Reflection-Glide">
+    <title>Reflection and Glide</title>
+    
+<ol>
+
+<li><p>In this figure below, <m>\triangle ABC</m> has been reflected over <m>\overleftrightarrow{m}</m>, translated by <m>\overrightarrow{u}</m>, and reflected again over <m>\overleftrightarrow{n}</m>. Do you think we can get from the left triangle to the right triangle in a single rigid motion?</p>
+            <example>
+            <figure xml:id="reflection_glide-1">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/reflection_glide-1.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's reflection, translation and reflection</caption>
+           </figure>
+           </example>
+</li>
+
+<li><p>Perhaps you have come to the conclusion that it is a single rotation. How would one go about finding the rotation's center?</p>
+			<example>
+            <figure xml:id="reflection_glide-2">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/reflection_glide-2.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's related image</caption>
+           </figure>
+           <hint><p>If <m>C</m> to <m>C'''</m> is a single rotation, that would mean that they lie on the same circle. What would that mean about the distance from the center of the circle to <m>C</m> and <m>C'''</m>?</p></hint>
+           </example>
+</li>
+
+<li><p>Because points on a circle are all the same distance from the center of the circle (definition of radius), then if point <m>O</m> is the center of the circle, then <m>\overline{OC} = \overline{OC'''}</m>.</p>
+<example>
+            <figure xml:id="reflection_glide-3">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/reflection_glide-3.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's rotation</caption>
+           </figure>
+           <hint><p>If <m>\overline{OC} = \overline{OC'''}</m>, then O lies on the perpendicular bisector of <m>CC'''</m>.</p></hint>
+           </example>
+</li>
+
+<li>
+<example>
+            <figure xml:id="reflection_glide-4">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/reflection_glide-4.png" width="90%"/>
+<caption><m>\overline{CC'''}</m> and it's perpendicular bisector</caption>
+           </figure>
+           </example>
+</li>
+
+<li>
+<example>
+            <figure xml:id="reflection_glide-5">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/reflection_glide-5.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's double rotation</caption>
+           </figure>
+           </example>
+</li>
+
+<li>
+<example>
+            <figure xml:id="reflection_glide-6">
+<image source="https://raw.githubusercontent.com/nickdowdall/Trans-geo/master/rigid_motions/other-stuff/pictures/new-pictures/reflection_glide-6.png" width="90%"/>
+<caption><m>\triangle ABC</m> and it's double rotation</caption>
+           </figure>
+           </example>
+</li>
+
+</ol>
+</section>
